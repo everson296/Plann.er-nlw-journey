@@ -15,6 +15,11 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="License" src="https://github.com/user-attachments/assets/1c1e27b8-d90c-492d-8673-692e0ce03807">
 </p>
 
+<p align="center">
+  <img alt="License" src="plann-er.png">
+  <img alt="License" src="plann-er (1).png">
+</p>
+
 <br>
 
 ## 🚀 Tecnologias
